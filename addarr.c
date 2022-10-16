@@ -1,4 +1,5 @@
 #include <stdio.h>
+//this is the main function
 int main()
 {
     int a[100], index, num, value;
